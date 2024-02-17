@@ -279,9 +279,11 @@ try
 }
 catch (Exception ex)
 {
+
     Console.WriteLine("¡Error! Algo salio mal" + ex.Message);
     Console.WriteLine("\n*** Haga click a Enter");
     Console.ReadKey();
+
 }
 
 //4 - Calcular temperatura en grados Fahrenheit a partir de los grados Celsius
