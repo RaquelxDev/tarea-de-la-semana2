@@ -1,5 +1,6 @@
 ﻿//********** CONVERSION DE TIPOS **********
 //*****************************************
+//*****************************************
 //1 - convertir número entero a decimal
 int CTEnt_1num1;
 decimal CTDeci_1num1;
